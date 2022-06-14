@@ -1,4 +1,4 @@
-# Maratona Explore 
+# Maratona Explorer
 
 ![image](https://user-images.githubusercontent.com/105385268/173641484-8507cca4-6d99-4379-89ba-9f0e9ade0ecb.png)
 
